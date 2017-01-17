@@ -1,0 +1,14 @@
+{
+  "name": "hello-world-bot",
+  "version": "1.0.0",
+  "description": "Claudia Bot Builder Example Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ejakait",
+  "license": "MIT",
+  "dependencies": {
+    "claudia-bot-builder": "^2.12.0"
+  }
+}
